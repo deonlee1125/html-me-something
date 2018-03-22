@@ -81,11 +81,12 @@ footer {
 
 img {
     float: right;
-    padding-right: 10px;
+    border: 2px solid orangered;
 }
 
 .caption {
     font-size: 14px;
     font-style: italic;
     text-align: right;
+    color: darkblue;
 }
