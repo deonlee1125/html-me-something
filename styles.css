@@ -1,0 +1,91 @@
+html {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+header {
+    background: blue;
+    padding-top: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    height: 110px;
+    width: 100%;
+    font-family: Arial;
+    font-size: 25px;
+    color: white;
+}
+
+span a {
+    float: right;
+    font-size: 25px;
+    font-family: Arial;
+    background-color: orangered;
+    color: white;
+    padding: 10px;
+}
+
+h2 {
+    color: darkblue;
+    font-family: Arial;
+    font-size: 26px;
+}
+
+#tips {
+    color: red;
+}
+
+h3 {
+    font-size: 20px;
+    color: orangered;
+    font-family: Arial;
+}
+
+article {
+    background: lightblue;
+    padding-top: 5px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    font-family: Arial;
+    font-size: 16px;
+    width: 100%;
+}
+
+thead {
+    background: blue;
+    color: white;
+    font-family: Arial Narrow;
+    font-size: 22px;
+    height: 42px;
+}
+
+tbody {
+    background: rgb(238, 238, 104);
+}
+
+td {
+    padding: 5px;
+}
+
+footer {
+    background: blue;
+    width: 100%;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 2px;
+    padding-right: 25px;
+    color: white;
+    text-align: right;
+}
+
+img {
+    float: right;
+    padding-right: 10px;
+}
+
+.caption {
+    font-size: 14px;
+    font-style: italic;
+    text-align: right;
+}
